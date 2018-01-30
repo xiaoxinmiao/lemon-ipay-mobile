@@ -92,7 +92,7 @@ export default {
                     nonceStr: param.nonceStr,
                     package: param.package,
                     signType: param.signType,
-                    paySign: param.pay_sign,
+                    paySign: param.paySign,
                     success: function (res) {
 
                     },
